@@ -10,7 +10,7 @@ h1 {
   line-height: 6rem;
 }
 
-subheading {
+.subheading {
   font-family: inherit;
   text-transform: none;
   margin-top: 1rem;
