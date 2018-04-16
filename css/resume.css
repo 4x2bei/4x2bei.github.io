@@ -1,7 +1,7 @@
 body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
-  color: #868e96;
+  color: #ffb7d8!important;
 }
 
 @media (min-width: 992px) {
@@ -44,7 +44,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: #BD5D38;
+  color: #99BBFF!important;
 }
 
 .list-social-icons a .fa-lg {
@@ -56,7 +56,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: #99BBFF!important;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -106,8 +106,8 @@ h2 {
 
 section.resume-section {
   border-bottom: 1px solid #dee2e6;
-  padding-top: 5rem !important;
-  padding-bottom: 5rem !important;
+  padding-top: 5rem ;
+  padding-bottom: 5rem ;
 }
 
 section.resume-section .resume-item .resume-date {
@@ -125,21 +125,21 @@ section.resume-section .resume-item .resume-date {
 
 @media (min-width: 992px) {
   section.resume-section {
-    padding-top: 3rem !important;
-    padding-bottom: 3rem !important;
+    padding-top: 3rem ;
+    padding-bottom: 3rem ;
   }
 }
 
 .bg-primary {
-  background-color: #9F88FF !important;
+  background-color: #99BBFF!important ;
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #99BBFF!important ;
 }
 
 a {
-  color: #BD5D38;
+  color: #99BBFF!important;
 }
 
 a:hover, a:focus, a:active {
