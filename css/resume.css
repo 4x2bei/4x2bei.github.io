@@ -13,7 +13,7 @@
 h1,h2,h3,h4,h5,h6{
 	font-family:'Saira Extra Condensed',serif;font-weight:700;
 	text-transform:uppercase;
-	color:#FF8888
+	color:#017558
 }
 
 h1{
@@ -33,11 +33,11 @@ h2{
 }
 
 .list-social-icons a{
-	color:#AAFFEE
+	color:#91000c
 }
 
 .list-social-icons a:hover{
-	color:#99FF99
+	color:#005c63
 }
 
 .list-social-icons a .fa-lg{
@@ -49,7 +49,7 @@ h2{
 }
 
 .list-icons .list-inline-item i:hover{
-	color:#FFB7DD
+	color:#520168
 }
 
 #sideNav .navbar-nav .nav-item .nav-link{
